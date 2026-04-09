@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Obitexjr
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Frontend design 
-- 💞️ I’m looking to collaborate on web development projects 
-- 📫 How to reach me: twitter; @JrObitex
+- 👋 Hi, I’m Obiorah Joseph
+- 👀 A Network Engineer 
+- 🌱 I’m currently studying for the CCNA  
+- 📫 How to reach me: twitter; @gtexx_
 
 <!---
 Obitexjr/Obitexjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
